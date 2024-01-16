@@ -1,4 +1,4 @@
-![Shivam Basak](https://github.com/shivamBasak/shivamBasak/blob/main/banner2.0.png)
+![Shivam Basak](./Banner.png)
 
 <h1 align="center">Hi 👋, I'm Shivam Basak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
