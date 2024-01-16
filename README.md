@@ -1,4 +1,4 @@
-![Shivam Basak](/Banner.png)
+![Shivam Basak](https://media.licdn.com/dms/image/D5616AQG8Mvi_tRCjjA/profile-displaybackgroundimage-shrink_200_800/0/1705396092339?e=2147483647&v=beta&t=oUaNhHLSR04XeJCvEuw-oHcNK2RPrGnV2i4VCam3pyk)
 
 <h1 align="center">Hi 👋, I'm Shivam Basak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
