@@ -1,4 +1,5 @@
-![logo](https://github.com/shivamBasak/shivamBasak/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![Shivam Basak](https://github.com/shivamBasak/shivamBasak/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shivam Basak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 Hi, my name is Shivam Basak and I am a student and web developer.
