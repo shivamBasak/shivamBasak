@@ -1,6 +1,11 @@
+![logo](https://github.com/shivamBasak/shivamBasak/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivam Basak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+Hi, my name is Shivam Basak and I am a student and web developer.
+I am currently studying computer science at Sister Nivedita University.
+In my free time, I enjoy building  applications using technologies like React,Python,Flask , Nextjs , TailwindCSS , Django ... I am always looking for new challenges and opportunities to learn and grow as a developer.
 
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47ukv3gp6nl149nl75u5zb9t6fsnvbvbj9uf9q9vb3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivambasak&label=Profile%20views&color=0e75b6&style=flat" alt="shivambasak" /> </p>
 
 - 🌱 I’m currently learning **Flask , C# ,SQL database**
