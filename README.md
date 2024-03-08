@@ -17,7 +17,7 @@ In my free time, I enjoy building  applications using technologies like React,Py
 
 - 📫 How to reach me **shivamneel69@gmail.com**
 
-- 📄 Know about my experiences [https://port-folio-git-main-shivambasak.vercel.app/RESUME15.01.24.pdf](https://port-folio-git-main-shivambasak.vercel.app/RESUME15.01.24.pdf)
+- 📄 Know about my experiences [Resume](https://port-folio-git-main-shivambasak.vercel.app/resume%208-3-24.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
