@@ -1,7 +1,7 @@
 ![Shivam Basak](https://media.licdn.com/dms/image/D5616AQG8Mvi_tRCjjA/profile-displaybackgroundimage-shrink_200_800/0/1705396092339?e=2147483647&v=beta&t=oUaNhHLSR04XeJCvEuw-oHcNK2RPrGnV2i4VCam3pyk)
 
 <h1 align="center">Hi 👋, I'm Shivam Basak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Upcoming Passionate Software Engineer from India</h3>
 Hi, my name is Shivam Basak and I am a student and web developer.
 I am currently studying computer science at Sister Nivedita University.
 In my free time, I enjoy building  applications using technologies like React,Python,Flask , Nextjs , TailwindCSS , Django ... I am always looking for new challenges and opportunities to learn and grow as a developer.
