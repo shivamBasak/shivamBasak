@@ -9,7 +9,7 @@ In my free time, I enjoy building  applications using technologies like React,Py
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47ukv3gp6nl149nl75u5zb9t6fsnvbvbj9uf9q9vb3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivambasak&label=Profile%20views&color=0e75b6&style=flat" alt="shivambasak" /> </p>
 
-- 🌱 I’m currently learning **Flask , C# ,SQL database**
+- 🌱 I’m currently learning **Flask , C++ ,SQL database**
 
 - 🔭 I’m currently working on a [Brain Stroke Image Detection](https://github.com/shivamBasak/Brain-Stroke-Detection)
 
