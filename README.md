@@ -23,7 +23,7 @@ In my free time, I enjoy building  applications using technologies like React,Py
 <p align="left">
 <a href="https://linkedin.com/in/shivam-basak-64153a1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-basak-64153a1b8" height="30" width="40" /></a>
 <a href="https://t.me/Shivam_Basak" target="blank"><img align="center" src="https://imgs.search.brave.com/SipM0D2P5E4HLlJIi4OybpnWpDDIzbFDGTngJtUVnGY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvdGVsZWdyYW0v/c21hbGwvdGVsZWdy/YW1fUE5HMzQucG5n" alt="Shivam_Basak" height="30" width="40" /></a>
-  
+ <a href="shivamneel69@gmail.com" target="blank"><img align="center" src="https://imgs.search.brave.com/LJW-lGWtQbytdiDjdDUAEddfpF5rXb4fthGlAxzoajA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5naW1nLmNvbS90/aHVtYi9nbWFpbC82/NjQ4OC1pY29ucy1z/eW1ib2wtY29tcHV0/ZXItZW1haWwtZ21h/aWwtZnJlZS10cmFu/c3BhcmVudC1pbWFn/ZS1ocS10aHVtYi5w/bmc" alt="Shivam_Basak" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
