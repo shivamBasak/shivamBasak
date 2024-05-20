@@ -22,6 +22,8 @@ In my free time, I enjoy building  applications using technologies like React,Py
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivam-basak-64153a1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-basak-64153a1b8" height="30" width="40" /></a>
+<a href="https://t.me/Shivam_Basak" target="blank"><img align="center" src="https://imgs.search.brave.com/SipM0D2P5E4HLlJIi4OybpnWpDDIzbFDGTngJtUVnGY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvdGVsZWdyYW0v/c21hbGwvdGVsZWdy/YW1fUE5HMzQucG5n" alt="Shivam_Basak" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
