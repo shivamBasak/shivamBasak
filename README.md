@@ -17,7 +17,7 @@ In my free time, I enjoy building  applications using technologies like React,Py
 
 - 📫 How to reach me **shivamneel69@gmail.com**
 
-- 📄 Here's my [Resume](https://port-folio-git-main-shivambasak.vercel.app/sas.pdf)
+- 📄 Here's my [Resume](https://github.com/shivamBasak/shivamBasak/blob/main/TCSresume%20-%20Shortcut.lnk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
