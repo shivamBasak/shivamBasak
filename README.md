@@ -13,7 +13,7 @@ In my free time, I enjoy building  applications using technologies like React,Py
 
 - 🔭 I’m currently working on a [Brain Stroke Image Detection](https://github.com/shivamBasak/Brain-Stroke-Detection)
 
-- 👨‍💻 All of my projects are available at [https://port-folio-git-main-shivambasak.vercel.app/](https://port-folio-git-main-shivambasak.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://port-folio-git-main-shivambasak.vercel.app/)
 
 - 📫 How to reach me **shivamneel69@gmail.com**
 
